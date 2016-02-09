@@ -1,8 +1,13 @@
 <html>
   <head>
-    <title>Django First Template</title>
+    <title>parse_id app</title>
   </head>
   <body>
-    <p>Hello Django World</p>
+    <h1>List of protein feature databases in the database</h1>
+    <ol>
+    {% for db in databases %}
+      <li>{{ db }}</li>
+    {% endfor %}
+  </ol>
   </body>
 </html>

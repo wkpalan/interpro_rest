@@ -8,3 +8,10 @@ class id_desc(models.Model):
 
     def __str__(self):
         return self.db_id
+
+class upload(models.Model):
+    database = models.CharField(max_length=100)
+    file_url = models.CharField(max_length=300)
+
+    def __str__(self):
+        return self.database
