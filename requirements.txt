@@ -1,0 +1,8 @@
+Django
+Fabric
+djangorestframework
+ecdsa
+ipython
+paramiko
+pycrypto
+wsgiref

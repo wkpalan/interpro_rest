@@ -7,7 +7,7 @@ class id_desc(models.Model):
     id_desc = models.CharField(max_length=100)
 
     def __str__(self):
-        return self.db_id
+        return self.db
 
 class upload(models.Model):
     database = models.CharField(max_length=100)
