@@ -72,6 +72,10 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'interpro_rest.wsgi.application'
 
+#Pagination for rest framework
+REST_FRAMEWORK = {
+    'PAGE_SIZE': 100,
+}
 
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases

@@ -1,0 +1,1299 @@
+SM00101	14_3_3: 14-3-3 homologues
+SM00474	35EXOc: 3'-5' exonuclease
+SM00294	4.1m: putative band 4.1 homologues' binding motif
+SM00475	53EXOc: 5'-3' exonuclease
+SM01350	6PGD: 6-phosphogluconate dehydrogenase, C-terminal domain
+SM01381	7TM_GPCR_Srsx: Serpentine type 7TM GPCR chemoreceptor Srsx
+SM00506	A1pp: Appr-1"-p processing enzyme
+SM01360	A2M: Alpha-2-macroglobulin family
+SM01359	A2M_N_2: Alpha-2-Macroglobulin
+SM01361	A2M_recep: A-macroglobulin receptor
+SM00006	A4_EXTRA: amyloid A4
+SM00382	AAA: ATPases associated with a variety of cellular activities
+SM00763	AAA_PrkA: PrkA AAA domain
+SM00499	AAI: Plant lipid transfer protein / seed storage protein / trypsin-alpha amylase inhibitor domain family
+SM00642	Aamy: Alpha-amylase domain
+SM00632	Aamy_C: 
+SM00783	A_amylase_inhib: Alpha amylase inhibitor
+SM00785	AARP2CN: AARP2CN (NUC121) domain
+SM00014	acidPPc: Acid phosphatase homologues
+SM00608	ACR: ADAM Cysteine-Rich Domain
+SM01363	ACTH_domain: Corticotropin ACTH domain
+SM00268	ACTIN: Actin
+SM00995	AD: Anticodon-binding domain
+SM00789	Ad_cyc_g-alpha: Adenylate cyclase G-alpha binding domain
+SM00552	ADEAMc: tRNA-specific and double-stranded RNA adenosine deaminase (RNA-specific editase)
+SM00788	Adenylsucc_synt: Adenylosuccinate synthetase
+SM00102	ADF: Actin depolymerisation factor/cofilin -like domains
+SM00996	AdoHcyase: S-adenosyl-L-homocysteine hydrolase
+SM00997	AdoHcyase_NAD: S-adenosyl-L-homocysteine hydrolase, NAD binding domain
+SM00998	ADSL_C: Adenylosuccinate lyase C-terminus
+SM00999	Aerolysin: Aerolysin toxin
+SM00790	AFOR_N: Aldehyde ferredoxin oxidoreductase, N-terminal domain
+SM00743	Agenet: Tudor-like domain present in plant sequences.
+SM00791	Agglutinin: 
+SM00792	Agouti: Agouti protein
+SM00793	AgrB: Accessory gene regulator B
+SM00794	AgrD: Staphylococcal AgrD protein
+SM00795	Agro_virD5: Agrobacterium VirD5 protein
+SM00805	AGTRAP: Angiotensin II, type I receptor-associated protein
+SM01000	Aha1_N: Activator of Hsp90 ATPase, N-terminal
+SM00796	AHS1: Allophanate hydrolase subunit 1
+SM00797	AHS2: Allophanate hydrolase subunit 2
+SM00798	AICARFT_IMPCHas: AICARFT/IMPCHase bienzyme
+SM01353	AIF_C: Apoptosis-inducing factor, mitochondrion-associated, C-term
+SM00806	AIP3: Actin interacting protein 3
+SM01001	AIRC: AIR carboxylase
+SM00807	AKAP_110: A-kinase anchor protein 110 kDa
+SM01004	ALAD: Delta-aminolevulinic acid dehydratase
+SM01002	AlaDh_PNT_C: Alanine dehydrogenase/PNT, C-terminal domain
+SM01003	AlaDh_PNT_N: Alanine dehydrogenase/PNT, N-terminal domain
+SM01005	Ala_racemase_C: Alanine racemase, C-terminal domain
+SM00103	ALBUMIN: serum albumin
+SM01006	AlcB: Siderophore biosynthesis protein domain
+SM01007	Aldolase_II: Class II Aldolase and Adducin N-terminal domain
+SM01008	Ald_Xan_dh_C: Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain
+SM01009	AlkA_N: AlkA N-terminal domain
+SM00098	alkPPc: Alkaline phosphatase homologues
+SM00809	Alpha_adaptinC2: Adaptin C-terminal domain
+SM00810	Alpha-amyl_C2: Alpha-amylase C-terminal beta-sheet domain
+SM00811	Alpha_kinase: Alpha-kinase family
+SM00813	Alpha-L-AF_C: Alpha-L-arabinofuranosidase C-terminus
+SM00812	Alpha_L_fucos: Alpha-L-fucosidase
+SM00872	Alpha-mann_mid: Alpha mannosidase, middle domain
+SM00814	Alpha_TIF: Alpha trans-inducing protein (Alpha-TIF)
+SM00815	AMA-1: Apical membrane antigen 1
+SM00656	Amb_all: 
+SM00816	Amb_V_allergen: Amb V Allergen
+SM00817	Amelin: Ameloblastin precursor (Amelin)
+SM00818	Amelogenin: 
+SM00644	Ami_2: 
+SM00646	Ami_3: 
+SM00723	AMOP: Adhesion-associated domain present in MUC4 and other proteins
+SM01010	AMPKBI: 5'-AMP-activated protein kinase beta subunit, interation domain
+SM01011	AMP_N: Aminopeptidase P, N-terminal domain
+SM00104	ANATO: Anaphylatoxin homologous domain
+SM00248	ANK: ankyrin repeats
+SM01012	ANTAR: 
+SM01357	Antimicrobial21: Plant antimicrobial peptide
+SM00335	ANX: Annexin repeats
+SM00380	AP2: DNA-binding domain in plant proteins such as APETALA2 and EREBPs
+SM00518	AP2Ec: AP endonuclease family 2
+SM01355	AP3B1_C: Clathrin-adaptor complex-3 beta-1 subunit C-terminal
+SM01356	AP4E_app_platf: Adaptin AP4 complex epsilon appendage platform
+SM01337	APC10: Anaphase-promoting complex, subunit 10 (APC10)
+SM01013	APC2: Anaphase promoting complex (APC) subunit 2
+SM01352	APCDDC: Adenomatosis polyposis coli down-regulated 1
+SM00223	APPLE: APPLE domain
+SM00871	AraC_E_bind: Bacterial transcription activator, effector binding domain
+SM00177	ARF: ARF-like small GTPases; ARF, ADP-ribosylation factor
+SM01015	Arfaptin: Arfaptin-like domain
+SM00105	ArfGap: Putative GTP-ase activating proteins for the small GTPase, ARF
+SM01016	Arg_tRNA_synt_N: Arginyl tRNA synthetase N terminal dom
+SM01014	ARID: ARID/BRIGHT DNA binding domain
+SM00185	ARM: Armadillo/beta-catenin-like repeats
+SM01017	Arrestin_C: Arrestin (or S-antigen), C-terminal domain
+SM01022	ASCH: 
+SM00870	Asparaginase: 
+SM01351	Aspzincin_M35: Lysine-specific metallo-endopeptidase
+SM00384	AT_hook: DNA binding domain with preference for A/T rich regions
+SM00869	Autotransporter: Autotransporter beta-domain
+SM00570	AWS: associated with SET domains
+SM00536	AXH: domain in Ataxins and HMG containing proteins
+SM01018	B12-binding_2: B12 binding domain
+SM01020	B2-adapt-app_C: Beta2-adaptin appendage, C-terminal sub-domain
+SM01019	B3: B3 DNA binding domain
+SM00873	B3_4: B3/4 domain
+SM00295	B41: Band 4.1 homologues
+SM00874	B5: tRNA synthetase B5 domain
+SM00665	B561: Cytochrome b-561 / ferric reductase transmembrane domain.
+SM00760	Bac_DnaA_C: Bacterial dnaA protein helix-turn-helix domain
+SM00875	BACK: BTB And C-terminal Kelch
+SM01021	Bac_rhodopsin: Bacteriorhodopsin-like protein
+SM01023	BAF: Barrier to autointegration factor
+SM00264	BAG: BAG domains, present in regulator of Hsp70 proteins
+SM00439	BAH: Bromo adjacent homology domain
+SM00721	BAR: 
+SM00520	BASIC: Basic domain in HLH proteins of MYOD family
+SM00876	BATS: Biotin and Thiamin Synthesis associated domain
+SM00502	BBC: B-Box C-terminal domain
+SM00336	BBOX: B-Box-type zinc finger
+SM00337	BCL: BCL (B-Cell lymphoma); contains BH1, BH2 regions
+SM01024	BCS1_N: 
+SM01026	Beach: Beige/BEACH domain
+SM01025	BEN: 
+SM01027	Beta-Casp: Beta-Casp domain
+SM01029	BetaGal_dom2: Beta-galactosidase, domain 2
+SM01028	Beta-TrCP_D: D domain of beta-TrCP
+SM01037	Bet_v_1: Pathogenesis-related protein Bet v I family
+SM01038	Bgal_small_N: Beta galactosidase small chain
+SM00265	BH4: BH4 Bcl-2 homology region 4
+SM01030	BHD_1: Rad4 beta-hairpin domain 1
+SM01031	BHD_2: Rad4 beta-hairpin domain 2
+SM01032	BHD_3: Rad4 beta-hairpin domain 3
+SM00411	BHL: bacterial (prokaryotic) histone like domain
+SM00634	BID_1: Bacterial Ig-like domain (group 1)
+SM00635	BID_2: Bacterial Ig-like domain 2
+SM01033	BING4CT: BING4CT (NUC141) domain
+SM00878	Biotin_carb_C: Biotin carboxylase C-terminal domain
+SM00238	BIR: Baculoviral inhibition of apoptosis protein repeat
+SM00108	B_lectin: Bulb-type mannose-specific lectin
+SM01034	BLUF: Sensors of blue-light using FAD
+SM01354	BLVR: Bovine leukaemia virus receptor (BLVR)
+SM00877	BMC: 
+SM00749	BON: bacterial OsmY and nodulation domain
+SM01035	BOP1NT: BOP1NT (NUC169) domain
+SM00269	BowB: Bowman-Birk type proteinase inhibitor
+SM01036	BP28CT: BP28CT (NUC211) domain
+SM00328	BPI1: BPI/LBP/CETP N-terminal domain
+SM00329	BPI2: BPI/LBP/CETP C-terminal domain
+SM00292	BRCT: breast cancer carboxy-terminal domain
+SM01039	BRICHOS: 
+SM00501	BRIGHT: BRIGHT, ARID (A/T-rich interaction domain) domain
+SM00879	Brix: 
+SM00592	BRK: domain in transcription and CHROMO domain helicases
+SM00338	BRLZ: basic region leucin zipper
+SM01041	BRO1: BRO1-like domain
+SM00297	BROMO: bromo domain
+SM01040	Bro-N: BRO family, N-terminal domain
+SM01042	Brr6_like_C_C: Di-sulfide bridge nucleocytoplasmic transport domain
+SM00751	BSD: domain in transcription factors and synapse-associated proteins
+SM01043	BTAD: Bacterial transcriptional activator domain
+SM00225	BTB: Broad-Complex, Tramtrack and Bric a brac
+SM01268	BTD: Beta-trefoil DNA-binding domain
+SM00099	btg1: tob/btg1 family
+SM00107	BTK: Bruton's tyrosine kinase Cys-rich motif
+SM00576	BTP: Bromodomain transcription factors and PHD domain containing proteins
+SM01044	Btz: CASC3/Barentsz eIF4AIII binding
+SM01045	BURP: 
+SM00109	C1: Protein kinase C conserved region 1 (C1) domains (Cysteine-rich domains)
+SM01047	C1_4: TFIIH C1-like domain
+SM00110	C1Q: Complement component C1q domain.
+SM00239	C2: Protein kinase C conserved region 2 (CalB)
+SM00643	C345C: Netrin C-terminal Domain
+SM00111	C4: C-terminal tandem repeated domain in type 4 procollagens
+SM01048	C6: 
+SM00832	C8: 
+SM00112	CA: Cadherin repeats.
+SM01062	Ca_chan_IQ: Voltage gated calcium channel IQ domain
+SM01049	Cache_2: 
+SM01050	CactinC_cactus: Cactus-binding C-terminus of cactin protein
+SM00266	CAD: Domains present in proteins implicated in post-mortem DNA fragmentation
+SM00736	CADG: Dystroglycan-type cadherin-like domains.
+SM01055	Cadherin_pro: Cadherin prodomain like
+SM00113	CALCITONIN: calcitonin
+SM00720	calpain_III: 
+SM00237	Calx_beta: Domains in Na-Ca exchangers and integrin-beta4
+SM01053	CaMBD: Calmodulin binding domain
+SM01054	CaM_binding: Plant calmodulin-binding domain
+SM01051	CAMSAP_CKK: Microtubule-binding calmodulin-regulated spectrin-associated
+SM01056	Candida_ALS_N: Cell-wall agglutinin N-terminal ligand-sugar binding
+SM00672	CAP10: Putative lipopolysaccharide-modifying enzyme.
+SM01052	CAP_GLY: 
+SM01057	Carb_anhydrase: Eukaryotic-type carbonic anhydrase
+SM00114	CARD: Caspase recruitment domain
+SM01058	CarD_TRCF: CarD-like/TRCF domain
+SM00673	CARP: Domain in CAPs (cyclase-associated proteins) and X-linked retinitis pigmentosa 2 gene product.
+SM00115	CASc: Caspase, interleukin-1 beta converting enzyme (ICE) homologues
+SM00722	CASH:  Domain present in carbohydrate binding proteins and sugar hydrolses
+SM01059	CAT: Chloramphenicol acetyltransferase
+SM01060	Catalase: 
+SM00831	Cation_ATPase_N: Cation transporter/ATPase, N-terminus
+SM01061	CAT_RBD: CAT RNA binding domain
+SM00637	CBD_II: 
+SM00606	CBD_IV: Cellulose Binding Domain Type IV
+SM00521	CBF: CCAAT-Binding transcription Factor
+SM01064	CBM_10: Cellulose or protein binding domain
+SM01065	CBM_2: Starch binding domain
+SM01066	CBM_25: Carbohydrate binding domain
+SM01067	CBM_3: Cellulose binding domain
+SM01063	CBM49: Carbohydrate binding domain CBM49
+SM01068	CBM_X: Putative carbohydrate binding domain
+SM00116	CBS: Domain in cystathionine beta-synthase and other proteins.
+SM01366	c-clamp: 
+SM00032	CCP: Domain abundant in complement control proteins; SUSHI repeat; short complement-like repeat (SCR)
+SM01069	CDC37_C: Cdc37 C terminal domain
+SM01070	CDC37_M: Cdc37 Hsp90 binding domain
+SM01071	CDC37_N: Cdc37 N terminal kinase binding
+SM01072	CDC48_2: Cell division protein 48 (CDC48) domain 2
+SM01073	CDC48_N: Cell division protein 48 (CDC48) N-terminal domain
+SM01074	Cdc6_C: CDC6, C terminal
+SM01075	CDT1: DNA replication factor CDT1 like
+SM00674	CENPB: Putative DNA-binding domain in centromere protein B, mouse jerky and transposases.
+SM00747	CFEM: 
+SM01076	CG-1: 
+SM01077	Cg6151-P: Uncharacterized conserved protein CG6151-P
+SM01078	CGGC: 
+SM00033	CH: Calponin homology domain
+SM00880	CHAD: 
+SM01079	CHASE: 
+SM01080	CHASE2: 
+SM01081	CHB_HEX: Putative carbohydrate binding domain
+SM00260	CheW: Two component signalling adaptor domain
+SM00587	CHK: ZnF_C4 abd HLH domain containing kinases domain
+SM00754	CHRD: A domain in the BMP inhibitor chordin and in microbial proteins.
+SM00298	CHROMO: Chromatin organization modifier domain
+SM00300	ChSh: Chromo Shadow Domain
+SM00270	ChtBD1: Chitin binding domain
+SM00494	ChtBD2: Chitin-binding domain type 2
+SM00495	ChtBD3: Chitin-binding domain type 3
+SM00728	ChW: Clostridial hydrophobic, with a conserved W residue, domain.
+SM01082	CHZ: Histone chaperone domain CHZ
+SM01083	Cir_N: N-terminal domain of CBF1 interacting co-repressor CIR
+SM00764	Citrate_ly_lig: Citrate lyase ligase C-terminal domain
+SM01085	CK_II_beta: Casein kinase II regulatory subunit
+SM01084	CKS: Cyclin-dependent kinase regulatory subunit
+SM00035	CLa: CLUSTERIN alpha chain
+SM00030	CLb: CLUSTERIN Beta chain
+SM00034	CLECT: C-type lectin (CTL) or carbohydrate-recognition domain (CRD)
+SM00299	CLH: Clathrin heavy chain repeat homology
+SM00680	CLIP: Clip or disulphide knot domain
+SM01086	ClpB_D2-small: C-terminal, D2-small domain, of ClpB protein
+SM00830	CM_2: Chorismate mutase type II
+SM00036	CNH: Domain found in NIK1-like kinases, mouse citron and yeast ROM1, ROM2
+SM00100	cNMP: Cyclic nucleotide-monophosphate binding domain
+SM00037	CNX: Connexin homologues
+SM00881	CoA_binding: CoA binding domain
+SM00882	CoA_trans: Coenzyme A transferase
+SM00833	CobW_C:  Cobalamin synthesis protein cobW C-terminal domain
+SM01092	CO_deh_flav_C: CO dehydrogenase flavoprotein C-terminal domain
+SM00762	Cog4: COG4 transport protein
+SM01087	COG6: Conserved oligomeric complex COG6
+SM01088	Col_cuticle_N: Nematode cuticle collagen N-terminal domain
+SM00038	COLFI: Fibrillar collagens C-terminal domain
+SM00023	COLIPASE: Colipase
+SM01089	Connexin_CCC: Gap junction channel protein cysteine-rich domain
+SM01090	Copper-fist: 
+SM01091	CorC_HlyC: Transporter associated domain
+SM01283	Costars: 
+SM01093	CP12: 
+SM01094	CpcD: CpcD/allophycocyanin linker domain
+SM00577	CPDc: catalytic domain of ctd-like phosphatases
+SM01095	Cpl-7: Cpl-7 lysozyme C-terminal domain
+SM00883	Cpn10: Chaperonin 10 Kd subunit
+SM01096	CPSase_L_D3: Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+SM01097	CPSase_sm_chain: Carbamoyl-phosphate synthase small chain, CPSase domain
+SM01098	CPSF73-100_C: 
+SM01099	CPW_WPC: 
+SM00757	CRA: CT11-RanBPM
+SM01100	CRAL_TRIO_N: CRAL/TRIO, N-terminal domain
+SM00039	CRF: corticotropin-releasing factor
+SM01101	CRISPR_assoc: 
+SM01102	CRM1_C: CRM1 C terminal
+SM01103	CRS1_YhbY: 
+SM00040	CSF2: Granulocyte-macrophage colony-simulating factor (GM-CSF)
+SM01046	c-SKI_SMAD_bind: c-SKI Smad4 binding domain
+SM00357	CSP: Cold shock protein domain
+SM00041	CT: C-terminal cystine knot-like domain (CTCK)
+SM01104	CTD: Spt5 C-terminal nonapeptide repeat binding Spt4
+SM00668	CTLH: C-terminal to LisH motif. 
+SM00679	CTNS: Repeated motif present between transmembrane helices in cystinosin, yeast ERS1p, mannose-P-dolichol utilization defect 1, and other hypothetical proteins.
+SM00042	CUB: Domain first found in C1r, C1s, uEGF, and bone morphogenetic protein.
+SM00546	CUE: Domain that may be involved in binding ubiquitin-conjugating enzymes (UBCs)
+SM00412	Cu_FIST: Copper-Fist
+SM00182	CULLIN: Cullin
+SM00884	Cullin_Nedd8: Cullin protein neddylation domain
+SM00835	Cupin_1: Cupin
+SM01109	CUT: 
+SM01110	Cutinase: 
+SM01111	CVNH: 
+SM00605	CW: 
+SM01115	cwf21: 
+SM01114	CXC: Tesmin/TSO1-like CXC domain
+SM00834	CxxC_CXXC_SSSS:  Putative regulatory protein
+SM00043	CY: Cystatin-like domain
+SM01116	Cyanate_lyase: Cyanate lyase C-terminal domain, Cyanate hydratase
+SM00044	CYCc: Adenylyl- / guanylyl cyclase, catalytic domain
+SM00385	CYCLIN: domain present in cyclins, TFIIB and Retinoblastoma
+SM01332	Cyclin_C: 
+SM00230	CysPc: Calpain-like thiol protease family.
+SM01117	Cyt-b5: Cytochrome b5-like Heme/Steroid binding domain
+SM01118	CYTH: 
+SM00885	D5_N: D5 N terminal like
+SM00886	Dabb: Stress responsive A/B Barrel Domain
+SM00045	DAGKa: Diacylglycerol kinase accessory domain (presumed)
+SM00046	DAGKc: Diacylglycerol kinase catalytic domain (presumed)
+SM01121	Dak1_2: 
+SM01120	Dak2: 
+SM00836	DALR_1: DALR anticodon binding domain
+SM00840	DALR_2: 
+SM00021	DAX: Domain present in Dishevelled and axin
+SM01282	DBB: Dof, BCAP, and BANK (DBB) motif
+SM01122	DBC1: 
+SM01123	DBP10CT: DBP10CT (NUC160) domain
+SM01124	DBR1: Lariat debranching enzyme, C-terminal domain
+SM00767	DCD: 
+SM01125	DCP2: Dcp2, box A domain
+SM00537	DCX: Domain in the Doublecortin (DCX) gene product
+SM00801	dDENN: Domain always found downstream of DENN domain, found in a variety of signalling proteins
+SM01126	DDE_Tnp_IS1595: ISXO2-like transposase domain
+SM01127	DDHD: 
+SM01128	DDRGK: 
+SM00571	DDT: domain in different transcription and chromosome remodeling factors
+SM00005	DEATH: DEATH domain, found in proteins involved in cell death (apoptosis).
+SM00031	DED: Death effector domain
+SM00048	DEFSN: Defensin/corticostatin family
+SM01129	DELLA: Transcriptional regulator DELLA protein N terminal
+SM00799	DENN: Domain found in a variety of signalling proteins, always encircled by uDENN and dDENN
+SM01133	DeoC: DeoC/LacD family aldolase
+SM01134	DeoRC: DeoR C terminal sensor domain
+SM00049	DEP: Domain found in Dishevelled, Egl-10, and Pleckstrin
+SM00487	DEXDc: DEAD-like helicases superfamily
+SM00488	DEXDc2: 
+SM00489	DEXDc3: 
+SM01130	DHDPS: Dihydrodipicolinate synthetase family
+SM01131	DHHA2: 
+SM01132	DIL: 
+SM01135	DIRP: 
+SM00050	DISIN: Homologues of snake disintegrins  
+SM01136	DKCLD: DKCLD (NUC011) domain
+SM00301	DM: Doublesex DNA-binding motif
+SM00676	DM10: Domains in hypothetical proteins in Drosophila, C. elegans and mammals. Occurs singly in some nucleoside diphosphate kinases.
+SM00675	DM11: Domains in hypothetical proteins in Drosophila including 2 in CG15241 and CG9329.
+SM00686	DM13: Domain present in fly proteins (CG14681, CG12492, CG6217), worm H06A10.1 and Arabidopsis thaliana MBG8.9.
+SM00685	DM14: Repeats in fly CG4713, worm Y37H9A.3 and human FLJ20241.
+SM00684	DM15: Tandem repeat in fly CG14066 (La related protein), human KIAA0731 and worm R144.7. Unknown function.
+SM00683	DM16: Repeats in sea squirt COS41.4, worm R01H10.6, fly CG1126 etc.
+SM00692	DM3: Zinc finger domain in CG10631, C. elegans LIN-15B and human P52rIPK.
+SM00718	DM4_12: DM4/DM12 family of domains in Drosophila melanogaster proteins of unknown function.
+SM00690	DM5: Domain of unknown function, currently peculiar to Drosophila.
+SM00689	DM6: Cysteine-rich domain currently specific to Drosophila.
+SM00688	DM7: Domain of unknown function in Drosophila CG15332, CG15333 and CG18293
+SM00697	DM8: Repeats found in several Drosophila proteins.
+SM00696	DM9: Repeats found in Drosophila proteins.
+SM01137	DMAP_binding: DMAP1-binding Domain
+SM00766	DnaG_DnaB_bind: DNA primase DnaG DnaB-binding
+SM00271	DnaJ: DnaJ molecular chaperone homology domain
+SM01340	DNA_mis_repair: DNA mismatch repair protein, C-terminal domain
+SM00476	DNaseIc: deoxyribonuclease I
+SM00664	DoH: Possible catecholamine-binding domain present in a variety of eukaryotic proteins.
+SM01138	DP: Transcription factor DP
+SM00837	DPBB_1: Rare lipoprotein A (RlpA)-like double-psi beta-barrel
+SM01139	Drf_FH3: Diaphanous FH3 Domain
+SM01140	Drf_GBD: Diaphanous GTPase-binding Domain
+SM01141	DRY_EERY: Alternative splicing regulator
+SM01119	D-ser_dehydrat: Putative serine dehydratase domain
+SM01142	DSHCT: 
+SM00051	DSL: delta serrate ligand
+SM00195	DSPc: Dual specificity phosphatase, catalytic domain
+SM00358	DSRM: Double-stranded RNA binding motif
+SM01385	DSS1_SEM1: 
+SM01143	DSX_dimer: Doublesex dimerisation domain
+SM01144	DTW: 
+SM01145	DUF1041: Domain of Unknown Function (DUF1041)
+SM01146	DUF1086: Domain of Unknown Function (DUF1086)
+SM01147	DUF1087: 
+SM01148	DUF1220: Repeat of unknown function (DUF1220)
+SM01149	DUF1237: 
+SM01150	DUF1338: 
+SM01151	DUF1518: 
+SM01152	DUF167: 
+SM01153	DUF1693: Domain of unknown function (DUF1693)
+SM01154	DUF1704: 
+SM01155	DUF1713: Mitochondrial domain of unknown function (DUF1713) 
+SM01156	DUF1716: Eukaryotic domain of unknown function (DUF1716)
+SM01157	DUF1719: 
+SM01158	DUF1741: 
+SM01159	DUF1744: 
+SM01160	DUF1751: Eukaryotic integral membrane protein (DUF1751)
+SM01161	DUF1767: 
+SM01162	DUF1771: 
+SM01163	DUF1785: 
+SM01164	DUF1856: 
+SM01165	DUF1866: 
+SM01166	DUF1899: 
+SM01167	DUF1900: 
+SM01168	DUF1907: 
+SM01169	DUF1943: 
+SM01170	DUF1944: 
+SM01325	DUF3160: 
+SM01346	DUF3385: Domain of unknown function
+SM01293	DUF3402: Domain of unknown function (DUF3402)
+SM01367	DUF3452: Domain of unknown function (DUF3452)
+SM01334	DUF3454: Domain of unknown function
+SM01203	DUF3585: 
+SM01331	DUF3635: Domain of unknown function
+SM01172	DUF3700: 
+SM01173	DUF4187: 
+SM01174	DUF4205: 
+SM01175	DUF4206: 
+SM01176	DUF4208: 
+SM01177	DUF4210: 
+SM01178	DUF4217: 
+SM01362	DUF663: Protein of unknown function (DUF663)
+SM01179	DUF862: PPPDE putative peptidase domain
+SM00695	DUSP: Domain in ubiquitin-specific proteases.
+SM00523	DWA: Domain A in dwarfin family proteins
+SM00524	DWB: Domain B in dwarfin family proteins
+SM01180	DWNN: 
+SM00053	DYNc: Dynamin, GTPase
+SM01375	Dynein_light: Dynein light chain type 1
+SM00694	DysFC: Dysferlin domain, C-terminal region.
+SM00693	DysFN: Dysferlin domain, N-terminal region.
+SM00572	DZF: domain in DSRM or ZnF_C2H2 domain containing proteins
+SM01181	E2_bind: 
+SM01372	E2F_TDP: E2F/DP family winged-helix DNA-binding domain
+SM00052	EAL: Putative diguanylate phosphodiesterase
+SM00887	EB_dh: Ethylbenzene dehydrogenase
+SM01284	ECSIT_Cterm: C-terminal domain of the ECSIT protein
+SM01182	EF-1_beta_acid: Eukaryotic elongation factor 1 beta central acidic region
+SM01183	EF1G: Elongation factor 1 gamma, conserved domain
+SM00888	EF1_GNE: EF-1 guanine nucleotide exchange domain
+SM00838	EFG_C: Elongation factor G C-terminus
+SM00889	EFG_IV: Elongation factor G, domain IV
+SM00054	EFh: EF-hand, calcium binding motif
+SM01184	efhand_Ca_insen: Ca2+ insensitive EF hand 
+SM01185	EFP: Elongation factor P (EF-P) OB domain 
+SM00181	EGF: Epidermal growth factor-like domain.
+SM00179	EGF_CA: Calcium-binding EGF-like domain
+SM00180	EGF_Lam: Laminin-type epidermal growth factor-like domai
+SM00001	EGF_like: EGF domain, unclasssified subfamily
+SM00027	EH: Eps15 homology domain
+SM00652	eIF1a: eukaryotic translation initiation factor 1A
+SM00653	eIF2B_5: domain present in translation initiation factor eIF2B and eIF5
+SM01186	eIF3_N: eIF3 subunit 6 N terminal domain
+SM01376	eIF-5a: Eukaryotic elongation factor 5A hypusine, DNA-binding OB fold
+SM00515	eIF5C: Domain at the C-termini of GCD6, eIF-2B epsilon, eIF-4 gamma and eIF-5
+SM00654	eIF6: translation initiation factor 6
+SM00890	EKR: Domain of unknown function
+SM00839	ELFV_dehydrog: Glutamate/Leucine/Phenylalanine/Valine dehydrogenase
+SM01187	Elicitin: 
+SM01188	ELK: 
+SM01189	ELM2: 
+SM00841	Elong-fact-P_C: Elongation factor P, C-terminal
+SM00729	Elp3: Elongator protein 3, MiaB family, Radical SAM
+SM01190	EMP24_GP25L: emp24/gp25L/p24 family/GOLD
+SM00272	END: Endothelin
+SM00478	ENDO3c: endonuclease III
+SM00892	Endonuclease_NS: DNA/RNA non-specific endonuclease
+SM01192	Enolase_C: Enolase, C-terminal TIM barrel domain 
+SM01193	Enolase_N: Enolase, N-terminal domain 
+SM01191	ENT: 
+SM00273	ENTH: Epsin N-terminal homology (ENTH) domain
+SM00026	EPEND: Ependymins
+SM00615	EPH_lbd: Ephrin receptor ligand binding domain
+SM00891	ERCC4: ERCC4 domain
+SM01194	eRF1_1: 
+SM00893	ETF: Electron transfer flavoprotein domain
+SM00413	ETS: erythroblast transformation specific domain
+SM00894	Excalibur: Excalibur calcium-binding domain
+SM00479	EXOIII: 
+SM00567	EZ_HEAT: E-Z type HEAT repeats
+SM01195	FA: FERM adjacent (FA)
+SM00231	FA58C: Coagulation factor 5/8 C-terminal domain, discoidin domain
+SM00808	FABD: F-actin binding domain (FABD) 
+SM01285	FACT-Spt16_Nlob: FACT complex subunit SPT16 N-terminal lobe domain
+SM01197	FANCL_C: FANCL C-terminal domain
+SM00898	Fapy_DNA_glyco: Formamidopyrimidine-DNA glycosylase N-terminal domain
+SM00554	FAS1: Four repeated domains in the Fasciclin I family of proteins, present in many other contexts.
+SM01343	FATC: 
+SM01198	FBA: F-box associated region
+SM00579	FBD: domain in FBox and BRCT domain containing plant proteins
+SM00186	FBG: Fibrinogen-related domains (FReDs)
+SM00256	FBOX: A Receptor for Ubiquitination Targets
+SM00236	fCBD: Fungal-type cellulose-binding domain
+SM00895	FCD: 
+SM00055	FCH: Fes/CIP4 homology domain
+SM01199	FDF: 
+SM00896	FDX-ACB: Ferredoxin-fold anticodon binding domain
+SM00902	Fe_hyd_SSU: Iron hydrogenase small subunit
+SM00899	FeoA: 
+SM01200	FerA: 
+SM01201	FerB: 
+SM01202	FerI: 
+SM01196	FERM_C: FERM C-terminal PH-like domain 
+SM00525	FES: 
+SM00441	FF: Contains two conserved F residues
+SM00442	FGF: Acidic and basic fibroblast growth factor family.
+SM00339	FH: FORKHEAD
+SM00498	FH2: Formin Homology 2 Domain
+SM00240	FHA: Forkhead associated domain
+SM01212	Fib_alpha: Fibrinogen alpha/beta chain family
+SM01206	Fibrillarin: 
+SM01391	Filament: Intermediate filament protein
+SM00057	FIMAC: factor I membrane attack complex
+SM01288	FISNA: Fish-specific NACHT associated domain
+SM00897	FIST: FIST N domain
+SM01204	FIST_C: 
+SM01205	FKS1_dom1: 1,3-beta-glucan synthase subunit FKS1
+SM00903	Flavin_Reduct: Flavin reductase like domain
+SM00904	Flavokinase: Riboflavin kinase
+SM01213	Flo11: 
+SM00759	Flu_M1_C: Influenza Matrix protein (M1) C-terminal domain
+SM00900	FMN_bind: 
+SM01214	Fmp27_GFWDK: RNA pol II promoter Fmp27 protein domain
+SM01215	Fmp27_SW: RNA pol II promoter Fmp27 protein domain
+SM01216	Fmp27_WPPW: RNA pol II promoter Fmp27 protein domain Provide feedback
+SM00058	FN1: Fibronectin type 1 domain
+SM00059	FN2: Fibronectin type 2 domain
+SM00060	FN3: Fibronectin type 3 domain
+SM01217	Fn3_like: Fibronectin type III-like domain
+SM00905	FolB: Dihydroneopterin aldolase
+SM00274	FOLN: Follistatin-N-terminal domain-like
+SM01218	FoP_duplication: C-terminal duplication domain of Friend of PRMT1
+SM01219	Frataxin_Cyay: Frataxin-like domain
+SM00901	FRG: 
+SM00063	FRI: Frizzled
+SM01330	Frizzled: Frizzled/Smoothened family membrane region
+SM01220	FSA_C: Fragile site-associated protein C-terminus
+SM01221	FTCD: Formiminotransferase domain
+SM01222	FTCD_N: Formiminotransferase domain, N-terminal subdomain
+SM01223	FTO_NTD: FTO catalytic domain 
+SM00607	FTP: eel-Fucolectin Tachylectin-4 Pentaxrin-1 Domain
+SM00842	FtsA: Cell division protein FtsA
+SM00843	Ftsk_gamma: 
+SM00261	FU: Furin-like repeats
+SM00906	Fungal_trans: Fungal specific transcription factor domain
+SM00542	FYRC: "FY-rich" domain, C-terminal region
+SM00541	FYRN: "FY-rich" domain, N-terminal region
+SM00064	FYVE: Protein present in Fab1, YOTB, Vac1, and EEA1
+SM00682	G2F: G2 nidogen domain and fibulin
+SM01207	G3P_acyltransf: Glycerol-3-phosphate acyltransferase 
+SM01208	G5: 
+SM01225	G8: 
+SM00844	GA: GA module
+SM00065	GAF: Domain present in phytochromes and cGMP-specific phosphodiesterases.
+SM01226	GAGA_bind: GAGA binding protein-like family
+SM01379	GAGE: 
+SM00066	GAL4: GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain
+SM00071	Galanin: Galanin
+SM00908	Gal-bind_lectin: Galactoside-binding lectin
+SM00275	G_alpha: G protein alpha subunit
+SM01209	GARS_A: Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain 
+SM01210	GARS_C: Phosphoribosylglycinamide synthetase, C domain 
+SM00243	GAS2: Growth-Arrest-Specific Protein 2 Domain
+SM00029	GASTRIN: gastrin / cholecystokinin / caerulein family
+SM01211	GATase_5: CobB/CobQ-like glutamine amidotransferase domain
+SM00845	GatB_Yqey: GatB domain
+SM01227	GCK: 
+SM00907	GDNF: GDNF/GAS1 domain
+SM00302	GED: Dynamin GTPase effector domain
+SM00262	GEL: Gelsolin homology domain
+SM00909	Germane: Sporulation and spore germination
+SM01224	G_gamma: GGL domain
+SM00267	GGDEF: diguanylate cyclase
+SM00224	GGL: G protein gamma subunit-like motifs
+SM00067	GHA: Glycoprotein hormone alpha chain homologues.
+SM00068	GHB: Glycoprotein hormone beta chain homologues.
+SM01228	GIDA_assoc_3: GidA associated domain 3
+SM00555	GIT: Helical motif in the GIT family of ADP-ribosylation factor GTPase-activating proteins
+SM00465	GIYc: GIY-YIG type nucleases (URI domain)
+SM00069	GLA: Domain containing Gla (gamma-carboxyglutamate) residues.
+SM00276	GLECT: Galectin
+SM01230	Gln-synt_C: Glutamine synthetase, catalytic domain
+SM00070	GLUCA: Glucagon like hormones
+SM01229	GluR_Homer-bdg: 
+SM00633	Glyco_10: Glycosyl hydrolase family 10
+SM00636	Glyco_18: 
+SM00641	Glyco_25: Glycosyl hydrolases family 25
+SM00640	Glyco_32: Glycosyl hydrolases family 32
+SM00390	GoLoco: LGN motif, putative GEFs specific for G-alpha GTPases
+SM00443	G_patch: glycine rich nucleic binding domain
+SM00846	Gp_dh_N: Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+SM00303	GPS: G-protein-coupled receptor proteolytic site domain
+SM00568	GRAM: domain in glucosyltransferases, myotubularins and other putative membrane-associated proteins
+SM00277	GRAN: Granulin
+SM00755	Grip: golgin-97, RanBP2alpha,Imh1p and p230/golgin-245
+SM00467	GS: GS motif
+SM00072	GuKc: Guanylate kinase homologues.
+SM00444	GYF: Contains conserved Gly-Tyr-Phe residues
+SM00713	GYR: Motif of unknown function with conserved Gly, Tyr, Arg tripeptide in Drosophila proteins.
+SM00526	H15: Domain in histone families 1 and 5
+SM00414	H2A: Histone 2A
+SM00427	H2B: Histone H2B
+SM01232	H2TH: Formamidopyrimidine-DNA glycosylase H2TH domain
+SM00428	H3: Histone H3
+SM00417	H4: Histone H4
+SM00847	HA2: Helicase associated domain (HA2)  Add an annotation
+SM01233	HABP4_PAI-RBP1: Hyaluronan / mRNA binding family
+SM00912	Haemagg_act: haemagglutination activity domain
+SM01235	Haem_bd: Haem-binding domain
+SM01234	Haemolytic: 
+SM01236	Haem_oxygenase_2: Iron-containing redox enzyme
+SM00340	HALZ: homeobox associated leucin zipper
+SM00304	HAMP: HAMP (Histidine kinases, Adenylyl cyclases, Methyl binding proteins, Phosphatases) domain
+SM00386	HAT: HAT (Half-A-TPR) repeats
+SM00387	HATPase_c: Histidine kinase-like ATPases
+SM01358	HBM: helical bimodular (HBM) domain
+SM00761	HDAC_interact: Histone deacetylase (HDAC) interacting
+SM00471	HDc: Metal dependent phosphohydrolases with conserved 'HD' motif.
+SM00119	HECTc: Domain Homologous to E6-AP Carboxyl Terminus with 
+SM00490	HELICc: helicase superfamily c-terminal domain
+SM00491	HELICc2: 
+SM00492	HELICc3: 
+SM00748	HEPN: Higher Eukarytoes and Prokaryotes Nucleotide-binding domain
+SM00278	HhH1: Helix-hairpin-helix DNA-binding motif class 1
+SM00279	HhH2: Helix-hairpin-helix class 2 (Pol1 family) motifs
+SM00305	HintC: Hint (Hedgehog/Intein) domain C-terminal region
+SM00306	HintN: Hint (Hedgehog/Intein) domain N-terminal region
+SM00910	HIRAN: 
+SM00388	HisKA: His Kinase A (phosphoacceptor) domain
+SM01231	H-kinase_dim: Signal transducing histidine kinase, homodimeric domain
+SM00353	HLH: helix loop helix domain
+SM00398	HMG: high mobility group
+SM00527	HMG17: domain in high mobilty group proteins HMG14 and HMG 17
+SM00507	HNHc: HNH nucleases
+SM00528	HNS: Domain in histone-like proteins of HNS family
+SM00430	HOLI: Ligand binding domain of hormone receptors
+SM00008	HormR: Domain present in hormone receptors
+SM00389	HOX: Homeodomain
+SM00073	HPT: Histidine Phosphotransfer domain
+SM00742	Hr1: Rho effector or protein kinase C-related kinase homology region 1 homologues
+SM00341	HRDC: Helicase and RNase D C-terminal
+SM00573	HSA: domain in helicases and associated with SANT domains
+SM00415	HSF: heat shock factor
+SM00342	HTH_ARAC: helix_turn_helix, arabinose operon control protein
+SM00418	HTH_ARSR: helix_turn_helix, Arsenical Resistance Operon Repressor
+SM00344	HTH_ASNC: helix_turn_helix ASNC type
+SM00419	HTH_CRP: helix_turn_helix, cAMP Regulatory protein
+SM00420	HTH_DEOR: helix_turn_helix, Deoxyribose operon repressor
+SM00529	HTH_DTXR: Helix-turn-helix diphteria tox regulatory element
+SM00345	HTH_GNTR: helix_turn_helix gluconate operon transcriptional repressor
+SM00346	HTH_ICLR: helix_turn_helix isocitrate lyase regulation
+SM00354	HTH_LACI: helix_turn _helix lactose operon repressor
+SM00421	HTH_LUXR: helix_turn_helix, Lux Regulon
+SM00347	HTH_MARR: helix_turn_helix multiple antibiotic resistance protein
+SM00422	HTH_MERR: helix_turn_helix, mercury resistance
+SM00530	HTH_XRE: Helix-turn-helix XRE-family like proteins 
+SM00752	HTTM: Horizontally Transferred TransMembrane Domain
+SM00911	HWE_HK: HWE histidine kinase
+SM00120	HX: Hemopexin-like repeats.
+SM00075	HYDRO: Hydrophobins
+SM00121	IB: Insulin growth factor-binding protein homologues
+SM00913	IBN_N: Importin-beta N-terminal domain
+SM00647	IBR: In Between Ring fingers
+SM01237	ICA69: Islet cell autoantigen ICA69, C-terminal domain 
+SM00914	IDEAL: 
+SM00497	IENR1: Intron encoded nuclease repeat motif
+SM00496	IENR2: Intron-encoded nuclease repeat 2
+SM00076	IFabd: Interferon alpha, beta and delta.
+SM00409	IG: Immunoglobulin
+SM00407	IGc1: Immunoglobulin C-Type
+SM00408	IGc2: Immunoglobulin C-2 Type
+SM00557	IG_FLMN: Filamin-type immunoglobulin domains
+SM00410	IG_like: Immunoglobulin like
+SM01238	IGR: 
+SM00406	IGv: Immunoglobulin V-Type
+SM01239	IKKbetaNEMObind: I-kappa-kinase-beta NEMO binding domain
+SM00125	IL1: Interleukin-1 homologues 
+SM00188	IL10: Interleukin-10 family
+SM00189	IL2: Interleukin-2 family
+SM00190	IL4_13: Interleukins 4 and 13
+SM00126	IL6: Interleukin-6 homologues
+SM00127	IL7: Interleukin-7 and interleukin-9 family.
+SM00078	IlGF: Insulin / insulin-like growth factor / relaxin family.
+SM00307	ILWEQ: I/LWEQ domain
+SM01240	IMPDH: IMP dehydrogenase / GMP reductase domain
+SM00187	INB: Integrin beta subunits (N-terminal portion of extracellular region)
+SM00848	Inhibitor_I29: Cathepsin propeptide inhibitor domain (I29)
+SM00191	Int_alpha: Integrin alpha (beta-propellor repeats).
+SM01241	Integrin_b_cyt: 
+SM01242	Integrin_B_tail: 
+SM00128	IPPc: Inositol polyphosphate phosphatase, catalytic domain homologues
+SM00429	IPT: ig-like, plexins, transcription factors
+SM00015	IQ: Short calmodulin-binding motif containing conserved Ile and Gln residues.
+SM00348	IRF: interferon regulatory factor
+SM01243	IRF-3: Interferon-regulatory factor 3
+SM00548	IRO: Motif in Iroquois-class homeodomain proteins (only). Unknown function.
+SM01244	IRS: Phosphotyrosine-binding domain
+SM01329	Iso_dh: Isocitrate/isopropylmalate dehydrogenase
+SM00077	ITAM: Immunoreceptor tyrosine-based activation motif
+SM00232	JAB_MPN: JAB/MPN domain
+SM00915	Jacalin: Jacalin-like lectin domain
+SM01245	Jag_N: 
+SM00700	JHBP: Juvenile hormone binding protein domains in insects.
+SM00558	JmjC: A domain family that is part of the cupin metalloenzyme superfamily.
+SM00545	JmjN: Small domain found in the jumonji family of transcription factors
+SM01246	Josephin: 
+SM01295	K167R: K167/Chmadrin repeat
+SM01247	KaiA: 
+SM01248	KaiB: 
+SM01297	KAP: Kinesin-associated protein (KAP) 
+SM01298	KapB: 
+SM01249	KASH: Nuclear envelope localisation domain 
+SM01250	KAT11: Histone acetylation protein
+SM00280	KAZAL: Kazal type serine protease inhibitors
+SM01251	KbaA: KinB-signalling pathway activation in sporulation
+SM00612	Kelch: 
+SM00322	KH: K homology RNA-binding domain
+SM01252	KilA-N: 
+SM01253	Kin17_mid: Domain of Kin17 curved DNA-binding protein
+SM00750	KIND: kinase non-catalytic C-lobe domain
+SM00129	KISc: Kinesin motor, catalytic domain. ATPase.
+SM01254	KLRAQ: Predicted coiled-coil domain-containing protein
+SM00505	Knot1: Knottins
+SM01255	KNOX1: 
+SM01256	KNOX2: 
+SM00739	KOW: KOW (Kyprides, Ouzounis, Woese) motif.
+SM00130	KR: Kringle domain
+SM00349	KRAB: krueppel associated box
+SM01257	KRAP_IP3R_bind: Ki-ras-induced actin-interacting protein-IP3R-interacting domain
+SM01258	KRBA1: KRBA1 family repeat
+SM00131	KU: BPTI/Kunitz family of serine protease inhibitors.
+SM00559	Ku78: Ku70 and Ku80 are 70kDa and 80kDa subunits of the Lupus Ku autoantigen
+SM00569	L27: domain in receptor targeting proteins Lin-2 and Lin-7
+SM00916	L51_S25_CI-B8: Mitochondrial ribosomal protein L51 / S25 / CI-B8 domain
+SM00715	LA: Domain in the RNA-binding Lupus La protein; unknown function
+SM01259	LAB_N: Lipid A Biosynthesis N-terminal domain
+SM00849	Lactamase_B: Metallo-beta-lactamase superfamily
+SM01267	LAG1_DNAbind: LAG1, DNA binding
+SM00281	LamB: Laminin B domain
+SM00282	LamG: Laminin G domain
+SM00560	LamGL: LamG-like jellyroll fold domain
+SM00136	LamNT: Laminin N-terminal domain (domain VI)
+SM01262	LAMTOR: Late endosomal/lysosomal adaptor and MAPK and MTOR activator
+SM01260	LANC_like: Lanthionine synthetase C-like protein
+SM00603	LCCL: 
+SM00192	LDLa: Low-density lipoprotein receptor domain class A
+SM00540	LEM: in nuclear membrane-associated proteins
+SM00917	LeuA_dimer: LeuA allosteric (dimerisation) domain
+SM01263	Leuk-A4-hydro_C: Leukotriene A4 hydrolase, C-terminal
+SM00308	LH2: Lipoxygenase homology 2 (beta barrel) domain
+SM00080	LIF_OSM: leukemia inhibitory factor 
+SM00532	LIGANc: Ligase N family
+SM00918	Lig_chan-Glu_bd: Ligated ion channel L-glutamate- and glycine-binding site
+SM00132	LIM: Zinc-binding domain present in Lin-11, Isl-1, Mec-3.
+SM00445	LINK: Link (Hyaluronan-binding)
+SM01269	Lipid_DES: Sphingolipid Delta4-desaturase (DES)
+SM00667	LisH: Lissencephaly type-1-like homology motif
+SM00714	LITAF: Possible membrane-associated motif in LPS-induced tumor necrosis factor alpha factor (LITAF), also known as PIG7, and other animal proteins.
+SM00226	LMWPc: Low molecular weight phosphatase family
+SM00775	LNS2: 
+SM00464	LON: Found in ATP-dependent protease La (LON)
+SM01270	Longin: Regulated-SNARE-like domain
+SM00638	LPD_N: Lipoprotein N-terminal Domain
+SM00370	LRR: Leucine-rich repeats, outliers
+SM00364	LRR_BAC: Leucine-rich repeats, bacterial type
+SM00446	LRRcap: occurring C-terminal to leucine-rich repeats
+SM00367	LRR_CC: Leucine-rich repeat - CC (cysteine-containing) subfamily
+SM00082	LRRCT: Leucine rich repeat C-terminal domain
+SM00013	LRRNT: Leucine rich repeat N-terminal domain
+SM00368	LRR_RI: Leucine rich repeat, ribonuclease inhibitor type
+SM00365	LRR_SD22: Leucine-rich repeat, SDS22-like subfamily
+SM00369	LRR_TYP: Leucine-rich repeats, typical (most populated) subfamily
+SM01271	LSM14: Scd6-like Sm domain
+SM01272	LsmAD: 
+SM00134	LU: Ly-6 antigen / uPA receptor -like domain
+SM00135	LY: Low-density lipoprotein-receptor YWTD domain
+SM00257	LysM: Lysin motif
+SM00850	LytTR: LytTr DNA-binding domain
+SM00263	LYZ1:  Alpha-lactalbumin / lysozyme C
+SM00047	LYZ2: Lysozyme subfamily 2
+SM01264	M16C_associated: Peptidase M16C associated
+SM01276	M60-like: Peptidase M60-like family
+SM00283	MA: Methyl-accepting chemotaxis-like domains (chemotaxis sensory transducer).
+SM00544	MA3: Domain in DAP-5, eIF4G, MA-3 and other proteins.
+SM01265	Mab-21: 
+SM01266	Mac: Maltose acetyltransferase
+SM00457	MACPF: membrane-attack complex / perforin
+SM00777	Mad3_BUB1_I: Mad3/BUB1 hoMad3/BUB1 homology region 1
+SM00595	MADF: 
+SM00432	MADS: 
+SM01373	MAGE: Melanoma-associated antigen
+SM01392	MAGE_N: Melanoma associated antigen family N terminal 
+SM01273	Mago-bind: Mago binding
+SM01277	MAGUK_N_PEST: Polyubiquitination (PEST) N-terminal domain of MAGUK
+SM01274	malic: Malic enzyme, N-terminal domain
+SM00919	Malic_M: Malic enzyme, NAD binding domain
+SM00137	MAM: Domain in meprin, A5, receptor protein tyrosine phosphatase mu (and others)
+SM01275	MamL-1: MamL-1 domain 
+SM00765	MANEC: 
+SM01278	MAPKK1_Int: Mitogen-activated protein kinase kinase 1 interacting
+SM00061	MATH: meprin and TRAF homology
+SM01279	Matrilin_ccoil: Trimeric coiled-coil oligomerisation domain of matrilin 
+SM00391	MBD: Methyl-CpG binding domain
+SM00561	MBT: Present in Drosophila Scm, l(3)mbt, and vertebrate SCML2
+SM00923	MbtH: MbtH-like protein
+SM00350	MCM: minichromosome  maintenance proteins
+SM01280	Mcm10: Mcm10 replication factor
+SM00604	MD: 
+SM01281	Med12: Transcription mediator complex subunit Med12
+SM00138	MeTrc: Methyltransferase, chemotaxis proteins 
+SM00851	MGS: MGS-like domain
+SM00924	MgtE_N: MgtE intracellular N domain
+SM00920	MHC_II_alpha: Class II histocompatibility antigen, alpha domain
+SM00921	MHC_II_beta: Class II histocompatibility antigen, beta domain
+SM00543	MIF4G: Middle domain of eukaryotic initiation factor 4G (eIF4G)
+SM00472	MIR: Domain in ryanodine and inositol trisphosphate receptors and protein O-mannosyltransferases
+SM00745	MIT: Microtubule Interacting and Trafficking molecule domain
+SM00737	ML: Domain involved in innate immunity and lipid metabolism.
+SM00925	MltA: MltA specific insert domain
+SM01388	Mob1_phocein: Mob1/phocein family
+SM00852	MoCF_biosynth: Probable molybdopterin binding domain
+SM00926	Molybdop_Fe4S4: Molybdopterin oxidoreductase Fe4S4 domain
+SM00698	MORN: Possible plasma membrane-binding motif in junctophilins, PIP-5-kinases and protein kinases.
+SM01347	Mre11_DNA_bind: Mre11 DNA-binding presumed domain
+SM00922	MR_MLE: Mandelate racemase / muconate lactonizing enzyme, C-terminal domain
+SM00733	Mterf: Mitochondrial termination factor repeats
+SM00927	MutH: DNA mismatch repair enzyme MutH
+SM00853	MutL_C: MutL C terminal dimerisation domain
+SM00534	MUTSac: ATPase domain of DNA mismatch repair MUTS family
+SM00533	MUTSd: DNA-binding domain of DNA mismatch repair MUTS family
+SM00242	MYSc: Myosin. Large ATPases.
+SM00139	MyTH4: Domain in Myosin and Kinesin Tails
+SM01292	N1221: N1221-like protein
+SM01296	N2227: 
+SM00928	NADH_4Fe-4S: NADH-ubiquinone oxidoreductase-F iron-sulfur binding region
+SM00929	NADH-G_4Fe-4S_3: NADH-ubiquinone oxidoreductase-G iron-sulfur binding region
+SM00183	NAT_PEP: Natriuretic peptide
+SM01348	Nbs1_C: DNA damage repair protein Nbs1
+SM00562	NDK: 
+SM00725	NEAT: NEAr Transporter domain
+SM00227	NEBU: 
+SM00588	NEUZ: 
+SM00932	Nfu_N: Scaffold protein Nfu/NifU N terminal
+SM00140	NGF: Nerve growth factor (NGF or beta-NGF)
+SM01290	N-glycanase_N: Peptide-N-glycosidase F, N terminal
+SM00738	NGN: In Spt5p, this domain may confer affinity for Spt4p. It possesses a RNP-like fold.
+SM00003	NH: Neurohypophysial hormones
+SM00539	NIDO: Extracellular domain of unknown function in nidogen (entactin) and hypothetical proteins.
+SM00930	NIL: 
+SM00004	NL: Domain found in Notch and Lin-12
+SM00084	NMU: Neuromedin U 
+SM01338	NOD: 
+SM01339	NODP: 
+SM00931	NOSIC: NOSIC (NUC001) domain
+SM00776	NPCBM: 
+SM01364	NPP: Pro-opiomelanocortin, N-terminal region
+SM00703	NRF: N-terminal domain in C. elegans NRF-6 (Nose Resistant to Fluoxetine-4) and NDG-4 (resistant to nordihydroguaiaretic acid-4).
+SM01291	N-SET: COMPASS (Complex proteins associated with Set1p) component N
+SM00206	NTR: Tissue inhibitor of metalloproteinase family.
+SM00477	NUC: DNA/RNA non-specific endonuclease
+SM01344	NUC194: 
+SM00933	NurA: 
+SM00284	OLF: Olfactomedin-like domains
+SM00934	OMPdecase: Orotidine 5'-phosphate decarboxylase / HUMPS family
+SM00935	OmpH: Outer membrane protein (OmpH-like)
+SM01365	Op_neuropeptide: Opioids neuropeptide
+SM00511	ORANGE: Orange domain
+SM00017	OSTEO: Osteopontin
+SM00702	P4Hc: Prolyl 4-hydroxylase alpha subunit homologues.
+SM00758	PA14: 
+SM00085	PA2c: Phospholipase A2
+SM00086	PAC: Motif C-terminal to PAS motifs (likely to contribute to PAS structural domain)
+SM01335	PADR1: 
+SM00309	PAH: Pancreatic hormones / neuropeptide F / peptide YY family 
+SM00753	PAM: PCI/PINT associated module
+SM00473	PAN_AP: divergent subfamily of APPLE domains
+SM00470	ParB: ParB-like nuclease domain
+SM00091	PAS: PAS domain
+SM00740	PASTA: 
+SM00613	PAW: domain present in PNGases and other hypothetical proteins
+SM00351	PAX: Paired Box domain
+SM00949	PAZ: 
+SM00666	PB1: PB1 domain 
+SM00285	PBD: P21-Rho-binding domain
+SM00710	PbH1: Parallel beta-helix repeats
+SM00936	PBP5_C: Penicillin-binding protein 5, C-terminal domain 
+SM00062	PBPb: Bacterial periplasmic substrate-binding proteins
+SM00079	PBPe: Eukaryotic homologues of bacterial periplasmic substrate binding proteins.
+SM00937	PCRF: 
+SM00018	PD: P or trefoil or TFF domain
+SM00141	PDGF: Platelet-derived and vascular endothelial growth factors (PDGF, VEGF) family
+SM00228	PDZ: Domain present in PSD-95, Dlg, and ZO-1/2.
+SM01300	PEHE: 
+SM00645	Pept_C1: Papain family cysteine protease
+SM00939	PepX_C: X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain
+SM00940	PepX_N: X-Prolyl dipeptidyl aminopeptidase PepX, N-terminal
+SM00854	PGA_cap: Bacterial capsule synthesis protein PGA_cap
+SM00855	PGAM: Phosphoglycerate mutase family
+SM00701	PGRP: Animal peptidoglycan recognition proteins homologous to Bacteriophage T3 lysozyme.
+SM00233	PH: Pleckstrin homology domain.
+SM00244	PHB: prohibitin homologues
+SM00708	PhBP: Insect pheromone/odorant binding protein domains.
+SM00249	PHD: PHD zinc finger
+SM00782	PhnA_Zn_Ribbon: PhnA Zinc-Ribbon
+SM00145	PI3Ka: Phosphoinositide 3-kinase family, accessory domain (PIK domain)
+SM00146	PI3Kc: Phosphoinositide 3-kinase, catalytic domain
+SM00142	PI3K_C2: Phosphoinositide 3-kinase, region postulated to contain C2 domain
+SM00143	PI3K_p85B: PI3-kinase family, p85-binding domain
+SM00144	PI3K_rbd: PI3-kinase family, Ras-binding domain
+SM00780	PIG-X: PIG-X / PBN1
+SM00938	P-II: Nitrogen regulatory protein P-II
+SM00670	PINc: Large family of predicted nucleotide-binding domains
+SM00088	PINT: motif in proteasome subunits, Int-6, Nip-1 and TRIP-15
+SM01299	PIP49_N: N-term cysteine-rich ER, FAM69
+SM00330	PIPKc: Phosphatidylinositol phosphate kinases
+SM00950	Piwi: 
+SM00089	PKD: Repeats in polycystic kidney disease 1 (PKD1) and other proteins
+SM00827	PKS_AT: Acyl transferase domain in polyketide synthase (PKS) enzymes.
+SM00826	PKS_DH: 
+SM00829	PKS_ER: Enoylreductase
+SM00822	PKS_KR: 
+SM00825	PKS_KS: Beta-ketoacyl synthase
+SM00828	PKS_MT: Methyltransferase  in polyketide synthase (PKS) enzymes.
+SM00823	PKS_PP: Phosphopantetheine attachment site
+SM01294	PKS_PP_betabranch: 
+SM00824	PKS_TE: Thioesterase
+SM00022	PLAc: Cytoplasmic phospholipase A2, catalytic subunit
+SM00148	PLCXc: Phospholipase C, catalytic domain (part); domain X
+SM00149	PLCYc: Phospholipase C, catalytic domain (part); domain Y
+SM00155	PLDc: Phospholipase D. Active site motifs.
+SM00250	PLEC: Plectin repeat
+SM00002	PLP: Myelin proteolipid protein (PLP or lipophilin)
+SM00563	PlsC: Phosphate acyltransferases
+SM00719	Plus3: Short conserved domain in transcriptional regulators.
+SM00856	PMEI: Plant invertase/pectin methylesterase inhibitor
+SM00480	POL3Bc: DNA polymerase III beta subunit
+SM00482	POLAc: DNA polymerase A domain
+SM00486	POLBc: DNA polymerase type-B family
+SM00481	POLIIIAc: DNA polymerase alpha chain like domain
+SM00483	POLXc: DNA polymerase X family
+SM00517	PolyA: C-terminal domain of Poly(A)-binding protein. Present also in Drosophila hyperplastics discs protein.
+SM00538	POP4: A domain found in a protein subunit of human RNase MRP and RNase P ribonucleoprotein complexes and archaeal proteins.
+SM00508	PostSET: Cysteine-rich motif following a subset of SET domains
+SM00352	POU: Found in Pit-Oct-Unc transcription factors
+SM00574	POX: domain associated with HOX domains
+SM00156	PP2Ac: Protein phosphatase 2A homologues, catalytic domain.
+SM00332	PP2Cc: Serine/threonine phosphatases, family 2C, catalytic domain
+SM00331	PP2C_SIG: Sigma factor PP2C-like phosphatases
+SM00564	PQQ: beta-propeller repeat
+SM00596	PRE_C2HC: 
+SM00468	PreSET: N-terminal to some SET domains
+SM00942	PriCT_1: Primase C terminal 1 (PriCT-1)
+SM00943	Prim-Pol: Bifunctional DNA primase/polymerase, N-terminal
+SM00778	Prim_Zn_Ribbon: Zinc-binding domain of primase-helicase
+SM00947	Pro_CA: Carbonic anhydrase
+SM00392	PROF: Profilin
+SM00944	Pro-kuma_activ: Pro-kumamolisin, activation domain
+SM00945	ProQ: ProQ/FINO family
+SM00946	ProRS-C_1: Prolyl-tRNA synthetase, C-terminal
+SM00948	Proteasome_A_N: Proteasome subunit A N-terminal signature  Add an annotation
+SM00157	PRP: Major prion protein
+SM00589	PRY: 
+SM00639	PSA: Paramecium Surface Antigen Repeat
+SM00423	PSI: domain found in Plexins, Semaphorins and Integrins
+SM00730	PSN: Presenilin, signal peptide peptidase, family
+SM00581	PSP: proline-rich domain in spliceosome associated proteins
+SM00462	PTB: Phosphotyrosine-binding domain, phosphotyrosine-interaction (PI) domain
+SM00310	PTBI: Phosphotyrosine-binding domain (IRS1-like)
+SM01326	PTEN_C2: C2 domain of PTEN tumour-suppressor protein
+SM00087	PTH: Parathyroid hormone
+SM00286	PTI: Plant trypsin inhibitors
+SM00193	PTN: Pleiotrophin / midkine family
+SM00194	PTPc: Protein tyrosine phosphatase, catalytic domain
+SM00012	PTPc_DSPc: Protein tyrosine phosphatase, catalytic domain, undefined specificity
+SM00404	PTPc_motif: Protein tyrosine phosphatase, catalytic domain motif
+SM01301	PTPlike_phytase: Inositol hexakisphosphate
+SM00159	PTX: Pentraxin / C-reactive protein / pentaxin family
+SM00359	PUA: Putative RNA-binding Domain in PseudoUridine synthase and Archaeosine transglycosylase
+SM00580	PUG: domain in protein kinases, N-glycanases and other nuclear proteins
+SM00025	Pumilio: Pumilio-like repeats
+SM00712	PUR: DNA/RNA-binding repeats in PUR-alpha/beta/gamma and in hypothetical proteins from spirochetes and the Bacteroides-Cytophaga-Flexibacter bacteria.
+SM00311	PWI: PWI, domain in splicing factors
+SM00293	PWWP: domain with conserved PWWP motif
+SM00312	PX: PhoX homologous domain, present in p47phox and p40phox.
+SM00313	PXA: Domain associated with PX domains
+SM00941	PYNP_C: Pyrimidine nucleoside phosphorylase C-terminal domain
+SM01289	PYRIN: PAAD/DAPIN/Pyrin domain
+SM00951	QLQ: 
+SM00393	R3H: Putative single-stranded nucleic acids-binding domain
+SM00314	RA: Ras association (RalGDS/AF-6) domain
+SM00175	RAB: Rab subfamily of small GTPases
+SM00650	rADc: Ribosomal RNA adenine dimethylases
+SM00176	RAN: Ran (Ras-related nuclear proteins) /TC4 subfamily of small GTPases
+SM00160	RanBD: Ran-binding domain
+SM00952	RAP: 
+SM01345	Rapamycin_bind: Rapamycin binding domain
+SM01302	Raptor_N: Raptor N-terminal CASPase like domain
+SM00173	RAS: Ras subfamily of RAS small GTPases
+SM01304	Ras_bdg_2: Ras-binding domain of Byr2
+SM00323	RasGAP: GTPase-activator protein for Ras-like GTPases
+SM00147	RasGEF: Guanine nucleotide exchange factor for Ras-like small GTPases
+SM00229	RasGEFN: Guanine nucleotide exchange factor for Ras-like GTPases; N-terminal motif
+SM01303	RasGEF_N_2: Rapamycin-insensitive companion of mTOR RasGEF_N domain
+SM01368	RB_A: Retinoblastoma-associated protein A domain
+SM01369	Rb_C: Rb C-terminal domain
+SM00455	RBD: Raf-like Ras-binding domain
+SM00448	REC: cheY-homologous receiver domain
+SM00954	RelA_SpoT: Region found in RelA / SpoT proteins
+SM00953	RES: 
+SM00857	Resolvase:  Resolvase, N terminal domain
+SM01305	RESP18: 
+SM01306	RFX5_DNA_bdg: RFX5 DNA-binding domain
+SM00315	RGS: Regulator of G protein signalling domain
+SM00174	RHO: Rho (Ras homology) subfamily of Ras-like small GTPases
+SM00450	RHOD: Rhodanese Homology Domain
+SM00324	RhoGAP: GTPase-activator protein for Rho-like GTPases
+SM00325	RhoGEF: Guanine nucleotide exchange factor for Rho/Rac/Cdc42-like GTPases
+SM00959	Rho_N: Rho termination factor, N-terminal domain
+SM00535	RIBOc: Ribonuclease III family
+SM01374	Ribosomal_L14: Ribosomal protein L14p/L23e
+SM01384	Ribosomal_L15e: 
+SM01383	Ribosomal_L2: Ribosomal Proteins L2, RNA binding domain
+SM01382	Ribosomal_L2_C: Ribosomal Proteins L2, C-terminal domain
+SM01380	Ribosomal_L31e: 
+SM01393	Ribosomal_L32e: 
+SM01377	Ribosomal_L40e: 
+SM01386	Ribosomal_S13_N: Ribosomal S13/S15 N-terminal domain
+SM01387	Ribosomal_S15: 
+SM01390	Ribosomal_S4: Ribosomal protein S4/S9 N-terminal domain
+SM00458	RICIN: Ricin-type beta-trefoil
+SM01307	RICTOR_M: Rapamycin-insensitive companion of mTOR, middle domain
+SM01308	RICTOR_N: Rapamycin-insensitive companion of mTOR, N-term
+SM01309	RICTOR_phospho: Rapamycin-insensitive companion of mTOR, phosphorylation-site
+SM01310	RICTOR_V: Rapamycin-insensitive companion of mTOR, domain 5
+SM00394	RIIa: RIIalpha, Regulatory subunit portion of type II PKA R-subunit
+SM00184	RING: Ring finger
+SM00744	RINGv: The RING-variant domain is a C4HC3 zinc-finger like motif found in a number of cellular and viral proteins. Some of these proteins have been shown both in vivo and in vitro to have ubiquitin E3 ligase activity.
+SM00090	RIO: RIO-like kinase
+SM00649	RL11: Ribosomal protein L11/L12
+SM00092	RNAse_Pc: Pancreatic ribonuclease 
+SM00955	RNB: 
+SM00960	Robl_LC7: Roadblock/LC7 domain
+SM01378	Romo1: Reactive mitochondrial oxygen species modulator 1
+SM00707	RPEL: Repeat in Drosophila CG10860, human KIAA0680 and C. elegans F26H9.2
+SM00657	RPOL4c: DNA-directed RNA-polymerase II subunit 
+SM00658	RPOL8c: RNA polymerase subunit 8
+SM00661	RPOL9: RNA polymerase subunit 9
+SM00663	RPOLA_N: RNA polymerase I subunit A N-terminus
+SM00659	RPOLCX: RNA polymerase subunit CX
+SM00662	RPOLD: RNA polymerases D
+SM01311	RPOL_N: DNA-directed RNA polymerase N-terminal
+SM00582	RPR: 
+SM00956	RQC: 
+SM00360	RRM: RNA recognition motif
+SM00361	RRM_1: RNA recognition motif
+SM00362	RRM_2: RNA recognition motif
+SM01312	RTC4: RTC4-like domain
+SM01287	Rtt106: Histone chaperone Rttp106-like
+SM00961	RuBisCO_small: Ribulose bisphosphate carboxylase, small chain
+SM00593	RUN: 
+SM00591	RWD: 
+SM00316	S1: Ribosomal protein S1-like RNA-binding domain
+SM00363	S4: S4 RNA-binding domain
+SM00970	s48_45: Sexual stage antigen s48/45 domain
+SM00197	SAA: Serum amyloid A proteins
+SM00858	SAF: 
+SM00454	SAM: Sterile alpha motif.
+SM00251	SAM_PNT: SAM / Pointed domain
+SM00258	SAND: SAND domain
+SM00717	SANT: SANT  SWI3, ADA2, N-CoR and TFIIIB'' DNA-binding domains
+SM00513	SAP: Putative DNA-binding (bihelical) motif predicted to be involved in chromosomal organisation
+SM00162	SAPA: Saposin/surfactant protein-B A-type DOMAIN
+SM00741	SapB: Saposin (B) Domains
+SM00178	SAR: Sar1p-like members of the Ras-family  of small GTPases
+SM00971	SATase_N: Serine acetyltransferase, N-terminal
+SM00431	SCAN: leucine rich region
+SM00198	SCP: SCP / Tpx-1 / Ag5 / PR-1 / Sc7 family of extracellular domains.
+SM00972	SCPU: Spore Coat Protein U domain
+SM00199	SCY: Intercrine alpha family (small cytokine C-X-C) (chemokine CXC).
+SM00200	SEA: Domain found in sea urchin sperm protein, enterokinase, agrin
+SM00516	SEC14: Domain in homologues of a S. cerevisiae phosphatidylinositol transfer protein (Sec14p)
+SM01313	Sec3-PIP2_bind: Exocyst complex component SEC3 N-terminal PIP2 binding PH
+SM00973	Sec63: Sec63 Brl domain  
+SM00222	Sec7: Sec7 domain
+SM00957	SecA_DEAD: SecA DEAD-like domain
+SM00958	SecA_PP_bind: SecA preprotein cross-linking domain
+SM00671	SEL1: Sel1-like repeats.
+SM00630	Sema: semaphorin domain
+SM00859	Semialdhyde_dh: Semialdehyde dehydrogenase, NAD binding domain
+SM00553	SEP: Domain present in Saccharomyces cerevisiae Shp1, Drosophila melanogaster eyes closed gene (eyc), and vertebrate p47.
+SM00093	SERPIN: SERine  Proteinase INhibitors
+SM00317	SET: SET (Su(var)3-9, Enhancer-of-zeste, Trithorax) domain
+SM00500	SFM: Splicing Factor Motif, present in Prp18 and Pr04
+SM00019	SF_P: Pulmonary surfactant proteins
+SM00252	SH2: Src homology 2 domains
+SM00326	SH3: Src homology 3 domains
+SM00287	SH3b: Bacterial SH3 domain homologues
+SM00254	ShKT: ShK toxin domain
+SM00786	SHR3_chaperone: ER membrane protein SH3
+SM00512	Skp1: Found in Skp1 protein family
+SM00651	Sm: snRNP Sm proteins
+SM00010	small_GTPase: Small GTPase of the Ras superfamily; ill-defined subfamily
+SM00968	SMC_hinge: SMC proteins Flexible Hinge Domain
+SM00860	SMI1_KNR4: SMI1 / KNR4 family
+SM00463	SMR: Small MutS-related domain
+SM01314	SnAC: Snf2-ATP coupling, chromatin remodelling complex
+SM00318	SNc: Staphylococcal nuclease homologues
+SM00201	SO: Somatomedin B -like domains
+SM00253	SOCS: suppressors of cytokine signalling
+SM00969	SOCS_box: 
+SM00459	Sorb: Sorbin homologous domain
+SM00787	Spc7: Spc7 kinetochore protein
+SM01315	Spc7_N: N-terminus of kinetochore NMS complex subunit Spc7 
+SM00150	SPEC: Spectrin repeats
+SM00583	SPK: 
+SM01316	Spo7_2_N: Sporulation protein family 7
+SM01317	SPOB_ab: Sporulation initiation phospho-transferase B, C-terminal 
+SM00967	SpoU_sub_bind: RNA 2'-O ribose methyltransferase substrate binding
+SM00966	SpoVT_AbrB: SpoVT / AbrB like domain 
+SM00731	SprT: SprT homologues.
+SM00449	SPRY: Domain in SPla and the RYanodine Receptor. 
+SM01286	SPT16: FACT complex subunit (SPT16/CDC68)
+SM00784	SPT2: SPT2 chromatin protein
+SM01389	Spt4: Spt4/RpoE2 zinc finger
+SM00202	SR: Scavenger receptor Cys-rich
+SM00466	SRA: SET and RING finger associated domain. Domain of unknown function in SET domain containing proteins and in Deinococcus radiodurans DRA1533.
+SM00962	SRP54: SRP54-type protein, GTPase domain
+SM00963	SRP54_N: SRP54-type protein, helical bundle domain
+SM00234	START: in StAR and phosphatidylcholine transfer protein
+SM00964	STAT_int: STAT protein, protein interaction domain
+SM00424	STE: STE like transcription factors
+SM00452	STI: Soybean trypsin inhibitor (Kunitz) family of protease inhibitors
+SM00727	STI1: Heat shock chaperonin-binding motif.
+SM00220	S_TKc: Serine/Threonine protein kinases, catalytic domain
+SM00133	S_TK_X: Extension to Ser/Thr-type protein kinases
+SM00965	STN: Secretin and TonB N terminus short domain
+SM00221	STYKc: Protein kinase; unclassified specificity.
+SM01318	SVWC: Single domain von Willebrand factor type C
+SM00648	SWAP: Suppressor-of-White-APricot splicing regulator
+SM00151	SWIB: SWI complex, BAF60b domains
+SM00503	SynN: Syntaxin N-terminal domain
+SM00974	T5orf172: 
+SM00803	TAF: TATA box binding protein associated factor
+SM00549	TAFH: TAF homology
+SM01370	TAFII55_N: TAFII55 protein conserved region
+SM01342	TAN: Telomere-length maintenance and DNA damage repair
+SM01319	Tankyrase_bdg_C: Tankyrase binding protein C terminal domain
+SM00804	TAP_C: C-terminal domain of vertebrate Tap protein
+SM00319	TarH: Homologues of the ligand binding domain of Tar
+SM00164	TBC: Domain in Tre-2, BUB2p, and Cdc16p. Probable Rab-GAPs.
+SM00425	TBOX: Domain first found  in the mice T locus (Brachyury) protein
+SM00711	TDU: Short repeats in human TONDU, fly vestigial and other proteins.
+SM00426	TEA: TEA domain
+SM00706	TECPR: Beta propeller repeats in Physarum polycephalum tectonins, Limulus lectin L-6 and animal hypothetical proteins.
+SM00976	Telo_bind: Telomeric single stranded DNA binding POT1/CDC13
+SM00975	Telomerase_RBD: Telomerase ribonucleoprotein complex - RNA binding domain
+SM01333	Tet_JBP: Oxygenase domain of the 2OGFeDO superfamily
+SM01371	TFIIA: Transcription factor IIA, alpha/beta subunit
+SM00531	TFIIE: Transcription initiation factor IIE
+SM00510	TFS2M: Domain in the central regions of transcription elongation factor S-II (and elsewhere)
+SM00509	TFS2N: Domain in the N-terminus of transcription elongation factor S-II (and elsewhere) 
+SM00460	TGc: Transglutaminase/protease-like homologues
+SM00204	TGFB: Transforming growth  factor-beta (TGF-beta) family
+SM00980	THAP: 
+SM00705	THEG: Repeats in THEG (testicular haploid expressed gene) and several fly proteins.
+SM00205	THN: Thaumatin family
+SM00981	THUMP: 
+SM00152	THY: Thymosin beta actin-binding motif.
+SM01261	Thymopoietin: 
+SM00979	TIFY: 
+SM00977	TilS_C: TilS substrate C-terminal domain
+SM00978	Tim44: 
+SM00255	TIR: Toll - interleukin 1 - resistance
+SM00203	TK: Tachykinin family
+SM00724	TLC: TRAM, LAG1 and CLN8 homology domains.
+SM00584	TLDc: domain in TBC and LysM domain containing proteins
+SM00207	TNF: Tumour necrosis factor family.
+SM00208	TNFR: Tumor necrosis factor receptor / nerve growth factor receptor repeats.
+SM01349	TOG: 
+SM00437	TOP1Ac: Bacterial DNA topoisomerase I DNA-binding domain
+SM00436	TOP1Bc: Bacterial DNA topoisomeraes I ATP-binding domain
+SM00433	TOP2c: TopoisomeraseII
+SM00434	TOP4c: DNA Topoisomerase IV
+SM00435	TOPEUc: DNA Topoisomerase I (eukaryota)
+SM00493	TOPRIM: 
+SM01341	Tower: 
+SM00983	TPK_B1_binding: Thiamin pyrophosphokinase, vitamin B1 binding domain
+SM00028	TPR: Tetratricopeptide repeats
+SM00861	Transket_pyr: Transketolase, pyrimidine binding domain
+SM00862	Trans_reg_C: Transcriptional regulatory protein, C terminal
+SM00746	TRASH: metallochaperone-like domain
+SM00982	TRCF: 
+SM00094	TR_FER: Transferrin
+SM00863	tRNA_SAD: Threonyl and Alanyl tRNA synthetase second additional domain
+SM01320	TRP_N: ML-like domain
+SM00095	TR_THY: Transthyretin
+SM00020	Tryp_SPc: Trypsin-like serine protease
+SM00397	t_SNARE: Helical region found in SNAREs
+SM00209	TSP1: Thrombospondin type 1 repeats
+SM00245	TSPc: tail specific protease
+SM00210	TSPN: Thrombospondin N-terminal -like domains.
+SM00864	Tubulin: Tubulin/FtsZ family, GTPase domain
+SM00865	Tubulin_C: Tubulin/FtsZ family, C-terminal domain
+SM00333	TUDOR: Tudor domain
+SM00211	TY: Thyroglobulin type I repeats.
+SM00219	TyrKc: Tyrosine kinase, catalytic domain
+SM00594	UAS: 
+SM00165	UBA: Ubiquitin associated domain
+SM00985	UBA_e1_C: Ubiquitin-activating enzyme e1 C-terminal domain
+SM00212	UBCc: Ubiquitin-conjugating enzyme E2, catalytic domain homologues
+SM00504	Ubox: Modified RING finger domain
+SM00213	UBQ: Ubiquitin homologues
+SM00166	UBX: Domain present in ubiquitin-regulatory proteins
+SM00800	uDENN: Domain always found upstream of DENN domain, found in a variety of signalling proteins
+SM00986	UDG: Uracil DNA glycosylase superfamily
+SM00984	UDPG_MGDP_dh_C: UDP binding domain
+SM00726	UIM: Ubiquitin-interacting motif.
+SM00802	UME: Domain in UVSB PI-3 kinase, MEI-41 and ESR-1
+SM00987	UreE_C: UreE urease accessory protein, C-terminal domain 
+SM00988	UreE_N: UreE urease accessory protein, N-terminal domain
+SM00096	UTG: Uteroglobin
+SM00866	UTRA: 
+SM00989	V4R: 
+SM00153	VHP: Villin headpiece domain
+SM00288	VHS: Domain present in VPS-27, Hrs and STAM
+SM00609	VIT: Vault protein Inter-alpha-Trypsin domain
+SM00756	VKc: 
+SM00602	VPS10: 
+SM00167	VPS9: Domain present in VPS9
+SM00990	VRR_NUC: 
+SM00327	VWA: von Willebrand factor (vWF) type A domain
+SM00214	VWC: von Willebrand factor (vWF) type C domain
+SM00011	VWC_def: 
+SM00215	VWC_out: von Willebrand factor (vWF) type C domain
+SM00216	VWD: von Willebrand factor (vWF) type D domain
+SM00217	WAP: Four-disulfide core domains
+SM00320	WD40: WD40 repeats
+SM00773	WGR: Proposed nucleic acid binding domain
+SM00461	WH1: WASP homology region 1
+SM00246	WH2: Wiskott Aldrich syndrome homology region 2
+SM00991	WHEP-TRS: 
+SM00769	WHy: Water Stress and Hypersensitive response
+SM00469	WIF: Wnt-inhibitory factor-1 like domain
+SM00097	WNT1: found in Wnt-1
+SM00289	WR1: Worm-specific repeat type 1
+SM00774	WRKY: DNA binding domain
+SM00321	WSC: present in yeast cell wall integrity and stress response component proteins
+SM00453	WSN: Worm-specific (usually) N-terminal domain
+SM00456	WW: Domain with 2 conserved Trp (W) residues
+SM00678	WWE: Domain in Deltex and TRIP12 homologues. Possibly involved in regulation of ubiquitin-mediated proteolysis.
+SM00768	X8: Possibly involved in carbohydrate binding
+SM00484	XPGI: Xeroderma pigmentosum G I-region
+SM00485	XPGN: Xeroderma pigmentosum G N-region
+SM00247	XTALbg: Beta/gamma crystallins
+SM01321	Y1_Tnp: Transposase IS200 like
+SM01322	YaeQ: 
+SM01323	YajC: Preprotein translocase subunit
+SM01324	YARHG: 
+SM00992	YccV-like: Hemimethylated DNA-binding protein YccV like
+SM00867	YceI: YceI-like domain 
+SM00993	YL1_C: YL1 nuclear protein C-terminal domain
+SM00732	YqgFc: Likely ribonuclease with RNase H fold.
+SM00550	Zalpha: Z-DNA-binding domain in adenosine deaminases.
+SM01327	Zds_C: Activator of mitotic machinery Cdc14 phosphatase activation C-term
+SM01328	zf-3CxxC: Zinc-binding domain 
+SM00868	zf-AD: Zinc-finger associated domain (zf-AD)
+SM00994	zf-C4_ClpX: ClpX C4-type zinc finger
+SM01336	zf-PARP: Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region
+SM00771	ZipA_C: ZipA, C-terminal domain (FtsZ-binding)
+SM00735	ZM: ZASP-like motif
+SM00770	Zn_dep_PLPC: Zinc dependent phospholipase C (alpha toxin)
+SM00259	ZnF_A20: A20-like zinc fingers
+SM00154	ZnF_AN1: AN1-like Zinc finger
+SM00614	ZnF_BED: BED zinc finger
+SM00440	ZnF_C2C2: C2C2 Zinc finger
+SM00355	ZnF_C2H2: zinc finger
+SM00343	ZnF_C2HC: zinc finger
+SM00356	ZnF_C3H1: zinc finger
+SM00399	ZnF_C4: c4 zinc finger in nuclear hormone receptors
+SM00704	ZnF_CDGSH: CDGSH-type zinc finger. Function unknown.
+SM00400	ZnF_CHCC: zinc finger
+SM00586	ZnF_DBF: Zinc finger in DBF-like proteins
+SM00401	ZnF_GATA: zinc finger binding to DNA consensus sequence [AT]GATA[AG] 
+SM00438	ZnF_NFX: 
+SM00575	ZnF_PMZ: plant mutator transposase zinc finger
+SM00734	ZnF_Rad18: Rad18-like CCHC zinc finger
+SM00547	ZnF_RBZ: Zinc finger domain
+SM00551	ZnF_TAZ: TAZ zinc finger, present in p300 and CBP 
+SM00597	ZnF_TTF: 
+SM00451	ZnF_U1: U1-like zinc finger
+SM00290	ZnF_UBP: Ubiquitin Carboxyl-terminal Hydrolase-like zinc finger
+SM00396	ZnF_UBR1: Putative zinc finger in N-recognin, a recognition component of the N-end rule pathway
+SM00291	ZnF_ZZ: Zinc-binding domain, present in Dystrophin, CREB-binding protein.
+SM00235	ZnMc: Zinc-dependent metalloprotease
+SM00631	Zn_pept: 
+SM00241	ZP: Zona pellucida (ZP) domain
+SM00709	Zpr1: Duplicated domain in the epidermal growth factor- and elongation factor-1alpha-binding protein Zpr1. Also present in archaeal proteins.
+SM00218	ZU5: Domain present in ZO-1 and Unc5-like netrin receptors
