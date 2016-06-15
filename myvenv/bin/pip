@@ -1,4 +1,4 @@
-#!/mnt/raid/lab_data/django/myvenv/bin/python3
+#!/mnt/raid/lab_data/django/myvenv/bin/python2
 
 # -*- coding: utf-8 -*-
 import re

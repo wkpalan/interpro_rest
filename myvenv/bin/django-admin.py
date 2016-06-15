@@ -1,4 +1,4 @@
-#!/mnt/raid/lab_data/django/myvenv/bin/python3
+#!/mnt/raid/lab_data/django/myvenv/bin/python2
 from django.core import management
 
 if __name__ == "__main__":

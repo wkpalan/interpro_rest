@@ -46,19 +46,29 @@ class base_add(generics.CreateAPIView):
     #         return Response(serializer.errors, status=status.HTTP_201_CREATED)
 
 
-class db_view(APIView):
-    def get(self, request, db_name, format=None):
+class db_view(generics.ListAPIView):
+    serializer_class = base_serializer
+
+    def get_queryset(self):
+        db_name = self.kwargs['db_name']
         records = id_desc.objects.filter(db=db_name)
-        serializer = base_serializer(records, many=True)
-        return Response(serializer.data)
+        return records
 
 
-class db_id_view(APIView):
+class db_id_view(generics.ListAPIView):
+    serializer_class = base_serializer
+
+    def get_queryset(self):
+        db_name = self.kwargs['db_name']
+        db_id = self.kwargs['db_id']
+        records = id_desc.objects.filter(db=db_name).filter(db_id=db_id)
+        return records
+'''
     def get(self, request, db_name, db_id, format=None):
         records = id_desc.objects.filter(db=db_name).filter(db_id=db_id)
         serializer = base_serializer(records, many=True)
         return Response(serializer.data)
-'''
+
 class db_view(viewsets.ModelViewSet):
     queryset = id_desc.objects.all()
     serializer_class = base_serializer

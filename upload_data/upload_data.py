@@ -43,6 +43,16 @@ elif database == "PIRSF":
     cat_term = ""
     id_col = 0
     desc_col = 1
+elif database == "SMART":
+    check_term = "9999999999999999"
+    cat_term = ""
+    id_col = 0
+    desc_col = 1
+elif database == "TIGRFAM":
+    check_term = "9999999999999999"
+    cat_term = ""
+    id_col = 0
+    desc_col = 1
 
 exist_records = 0
 add_records = 0
